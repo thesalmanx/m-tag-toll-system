@@ -27,7 +27,7 @@ Follow these steps to compile and run the project:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/m-tag-toll-system.git
+git clone https://github.com/thesalmanx/m-tag-toll-system.git
 cd m-tag-toll-system
 ```
 
