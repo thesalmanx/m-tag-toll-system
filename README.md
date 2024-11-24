@@ -90,48 +90,77 @@ Close the program safely.
 
 
 ### 📊 Example Output:
+```
+------------WELCOME TO M-TAG SYSTEM--------------
+1- New Vehicle Registration
+2- Recharge Your M-TAG
+3- Travel (Enter Toll Plaza Information)
+4- Exit Program
+Enter your choice:  
+```
+
 New Vehicle Registration
 ```
-Enter Your Full Name:
-Muhammad Salman
-Enter Your CNIC Number:
-3120592251569
-Enter Your COVID-19 Certificate Number:
-9876543210
-Enter Your Car's number plate:
-1221
-Enter Your Phone Number:
-03061622389
-Your M-TAG has been made successfully and Your M-TAG registration is 221234567.
+Enter Your Full Name: Muhammad Salman
+Enter Your CNIC Number: 3120592251569
+Enter Your COVID-19 Certificate Number: 13422438
+Enter Your Vehicle Number Plate: 1221
+Enter Your Phone Number: 03061622389
+
+Your M-TAG has been registered successfully.
+Please recharge your M-TAG to start using the system.
 ```
 
 Recharge Balance
 ```
-Enter Your Phone Number:
-03061622389
-Enter amount to recharge:
-500
-Your new Balance is Now 1000.
+Enter Your Phone Number: 03061622389
+Enter the amount you want to recharge: 350
+Recharge successful! Your new balance is: 350 RS
 ```
 
 Travel Between Plazas
 ```
-Going from where?
-1- Islamabad
-2- Fateh Jhang
-3- Sangjani
-4- Bharama
-Enter your choice: 2
-To where?
-1- Islamabad
-2- Fateh Jhang
-3- Sangjani
-4- Bharama
-Enter your choice: 4
-Your Calculated fare is 50 RS/-
-Updated Balance: 950 RS/-
+Enter Your Phone Number: 03061622389
+
+Select Starting Toll Plaza:
+1. Islamabad
+2. Fateh Jhang
+3. Sangjani
+4. Bharama
+5. Burhan
+6. Hazara
+7. Ghazi
+8. Chach
+9. Swabi
+10. Kernal Sher Khan
+11. Wali Interchange
+12. Rashaki
+13. Charsadda
+14. Peshawar
+1
+
+Select Destination Toll Plaza:
+1. Islamabad
+2. Fateh Jhang
+3. Sangjani
+4. Bharama
+5. Burhan
+6. Hazara
+7. Ghazi
+8. Chach
+9. Swabi
+10. Kernal Sher Khan
+11. Wali Interchange
+12. Rashaki
+13. Charsadda
+14. Peshawar
+4
+
+Calculated Fare: 70 RS
+Remaining Balance: 280 RS
 ```
-💡 Why Choose This Project?
+
+#### 💡 Why Choose This Project?
 - Real-World Application: Perfect for toll plaza automation with practical features.
 - Easy to Use: Clean interface with detailed prompts.
 - Organized Data: Stores all records in dedicated files for easy retrieval.
