@@ -89,7 +89,7 @@ Close the program safely.
 
 
 
-### 📊 Example Output:
+# 📊 Example Output:
 ```
 ------------WELCOME TO M-TAG SYSTEM--------------
 1- New Vehicle Registration
