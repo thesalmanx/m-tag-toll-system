@@ -102,7 +102,7 @@ Enter your choice:
 New Vehicle Registration
 ```
 Enter Your Full Name: Muhammad Salman
-Enter Your CNIC Number: 3120592251569
+Enter Your CNIC Number: 312051569
 Enter Your COVID-19 Certificate Number: 13422438
 Enter Your Vehicle Number Plate: 1221
 Enter Your Phone Number: 03061622389
